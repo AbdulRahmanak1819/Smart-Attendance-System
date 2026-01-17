@@ -1,0 +1,12 @@
+# --- Folders to Ignore ---
+images/
+__pycache__/
+env/
+venv/
+
+# --- Files to Ignore ---
+*.whl
+*.pyc
+
+# --- Privacy (Ignore your Excel file) ---
+Attendance*
